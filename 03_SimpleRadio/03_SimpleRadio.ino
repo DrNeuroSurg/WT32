@@ -10,8 +10,8 @@
 using namespace audio_tools;  
 
 
-const char *wifi = "LAURIN";
-const char *password = "wujalondon";
+const char *wifi = "YourSSID";
+const char *password = "YourPassword";
 
 // FROM ICECAST DIRECTOY -> https://dir.xiph.org/codecs/MP3
 const char *urlstream =  "http://radio4.cdm-radio.com:8020/stream-mp3-Chill_autodj";   // COSTA DEL MAR - CHILLOUT
