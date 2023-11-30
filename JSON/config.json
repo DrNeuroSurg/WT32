@@ -1,6 +1,6 @@
 {
-    "ssid": "LAURIN",
-    "password": "wujalondon",
+    "ssid": "YourSSID",
+    "password": "YourPassword",
     "stations": [
       "https://radio.balearic-fm.com:8000/radio.mp3",
       "http://s6-webradio.antenne.de/antenne",
