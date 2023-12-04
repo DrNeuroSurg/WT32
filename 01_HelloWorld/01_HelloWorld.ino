@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "display.h"
+#include "wt32_sc01_plus.h"
 
 void setup() {
   // put your setup code here, to run once:
